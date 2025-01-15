@@ -20,8 +20,8 @@ const screenshots = [
 
 const reviews = [
   { author: "Gamer BD", rating: 5, text: "Best mobile FPS I've played!" },
-  { author: "ALLAH RAM", rating: 5, text: "Amazing graphics and gameplay" },
-  { author: "KALO DADU", rating: 4, text: "Great game, constant updates" },
+  { author: "bobby", rating: 5, text: "Amazing graphics and gameplay" },
+  { author: "remo", rating: 4, text: "Great game, constant updates" },
 ];
 
 export default function MobilePreview() {
